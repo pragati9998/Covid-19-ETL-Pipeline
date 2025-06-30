@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+pymongo
+faker
+openpyxl
+snowflake-connector-python
+snowflake-sqlalchemy
+sqlalchemy
+pyarrow
